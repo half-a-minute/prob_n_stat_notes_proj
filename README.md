@@ -34,4 +34,4 @@ Section 7. Measure-theoretic probability
 
 More topics coming soon, but most of them will be on statistics.
 
-### Shout out to my Threads-mate @lkc_09.26 for motivating me to initiate this project.
+### Shout out to my girlfriend, a sweet princess who always supports me unconditionally, and my Threads-mate @lkc_09.26 for motivating me to initiate this project.
