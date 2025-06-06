@@ -12,13 +12,13 @@ Section 1. Introduction to combinatorics
 
 #### Book 1 - Basic combinatorics
 
-Section 2. Recurrence relations and generating functions
+Section 2. Recurrence relations and generating functions (almost done)
 
-Section 3. Introduction to graph theory
+Section 3. Introduction to graph theory (halfway I guess?)
 
 #### Book 2 - Probability and statistics
 
-Section 5. Introduction to probability theory
+Section 5. Introduction to probability theory (just began)
 
 ## Planning:
 
