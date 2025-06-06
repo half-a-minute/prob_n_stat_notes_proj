@@ -1,6 +1,6 @@
-Hey guys I am currently working on composing my own "ultimate" notes of basic combinatorics and mathmatical statistics, and I am excited to share them with my mates. Hope you will enjoy it too!
+Hey guys, I am @0.5mins, a final year math student in HK (who is surrendered to pure math and transitioning to statistics). I am currently working on composing my own "ultimate" notes on basic combinatorics and mathematical statistics, and I am excited to share them with my mates. Hope you will enjoy it too!
 
-If you find any mistakes or something I can improve on, free feel to leave me a message!
+If you find any mistakes or something I can improve on, feel free to leave me a message on the discussion board!
 
 ## Currently published:
 
@@ -16,7 +16,7 @@ Section 2. Recurrence relations and generating functions
 
 Section 3. Introduction to graph theory
 
-#### Book 2 - Mathematical statistics
+#### Book 2 - Probability and statistics
 
 Section 5. Introduction to probability theory
 
@@ -26,10 +26,12 @@ Section 5. Introduction to probability theory
 
 Section 4. Introduction to linear programming
 
-#### Book 2 - Mathematical statistics
+#### Book 2 - Probability and statistics
 
 Section 6. Introduction to mathematical statistics
 
 Section 7. Measure-theoretic probability
+
+More topics coming soon, but most of them will be on statistics.
 
 ### Shout out to my Threads-mate @lkc_09.26 for motivating me to initiate this project.
