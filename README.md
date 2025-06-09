@@ -18,7 +18,7 @@ Section 3. Introduction to graph theory (halfway I guess?)
 
 #### Book 2 - Probability and statistics
 
-Section 5. Introduction to probability theory (just began)
+Section 1. Introduction to probability theory (just began)
 
 ## Planning:
 
@@ -28,10 +28,12 @@ Section 4. Introduction to linear programming
 
 #### Book 2 - Probability and statistics
 
-Section 6. Introduction to mathematical statistics
+Section 2. Introduction to mathematical statistics
 
-Section 7. Measure-theoretic probability
+Section 3(?). Measure-theoretic probability
 
 More topics coming soon, but most of them will be on statistics, probably on stochastic calculus, statistical inference or something like that.
+
+Also thinking of writing some number theory notes to pay my last respect to this lovely subject as an ex-number theory enthusiast.
 
 ### Shout out to my girlfriend, a sweet princess who always supports me unconditionally, and my Threads-mate @lkc_09.26 for motivating me to initiate this project.
