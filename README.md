@@ -9,6 +9,7 @@ Notes 0B - Basic Combinatorics
 ## Preparing:
 
 Notes 0A - Quantitative Methods
+
 Notes 1 - Introductory Probability and Statistics
 
 ## Planning:
