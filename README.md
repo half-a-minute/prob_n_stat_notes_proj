@@ -6,12 +6,12 @@ If you find any mistakes or something I can improve on, feel free to leave me a 
 
 Notes 0B - Basic Combinatorics
 
-## Preparing
+## Preparing:
 
 Notes 0A - Quantitative Methods
 Notes 1 - Introductory Probability and Statistics
 
-## Planning
+## Planning:
 
 Notes 0C - Programming
 
